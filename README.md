@@ -1,8 +1,8 @@
  # Sales and Profit Analysis Using Excel
  
-# Business Problem : The company wants to understand which product categories, states, and customers are generating the most sales and profit, in order to focus future sales and marketing efforts more effectively. They also want to see monthly trends and identify top-performing regions and customers.
+Business Problem : The company wants to understand which product categories, states, and customers are generating the most sales and profit, in order to focus future sales and marketing efforts more effectively. They also want to see monthly trends and identify top-performing regions and customers.
 
- # Project Description: Analyzed sales, profit, and customer data using Excel to identify top-performing product categories, states, and customers. Used pivot tables, charts, and formulas to create a dashboard highlighting monthly trends, regional performance, and profitability. Provided insights to support data-driven business decisions.
+ Project Description: Analyzed sales, profit, and customer data using Excel to identify top-performing product categories, states, and customers. Used pivot tables, charts, and formulas to create a dashboard highlighting monthly trends, regional performance, and profitability. Provided insights to support data-driven business decisions.
 
 1. Which product categories are driving the highest sales, and how do they compare in terms of profitability?
 
